@@ -6,3 +6,4 @@
 学习git并会使用
 
 git is a free controlly system.
+simidas 做这个事情
